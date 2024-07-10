@@ -17,7 +17,7 @@ Feel free to fork this repository, submit issues, and make pull requests. Contri
 
 Contact
 
-For any questions or feedback, you can reach out to CatSan at catdevzhs @discord.
+For any questions or feedback, you can reach out to CatSan at catdevzsh  @discord.
 
 Feel free to customize it further based on specific details and instructions for your games.# Cat--sans-Games-archive-20XX
 6.9.24$
